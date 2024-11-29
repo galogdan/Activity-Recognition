@@ -59,7 +59,6 @@ Raw Sensor Data → Preprocessing → Feature Extraction → AI Model → Activi
 │   ├── processed/          # Processed features
 │   └── ai_ready/          # Training datasets
 │
-├── docs/                   # Documentation
 └── results/               # Analysis outputs
 ```
 

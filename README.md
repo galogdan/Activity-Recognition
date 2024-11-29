@@ -1,7 +1,6 @@
 # Human Activity Recognition System 🏃‍♂️🔍
 
 
-
 ## 📋 Overview
 Human Activity Recognition (HAR) system that classifies human activities using smartphone sensor data. The system employs signal processing techniques and machine learning algorithms to analyze data from multiple sensor positions, making it robust and position-invariant.
 
